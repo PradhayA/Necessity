@@ -5,7 +5,8 @@
      	  "main": "server.js",
   	  "scripts": {
     		"test": "echo \"Error: no test specified\" && exit 1"
-  	  },
+	  	"start": "node script.js"
+	  }
   	  "keywords": [],
   	  "author": "Pradhay Amarnath",
   	  "license": "ISC",
@@ -19,5 +20,6 @@
 	  }
 	  "engines": {
     		"node": "12.x"
+		"npm": "6.x"
 	  }
 }
