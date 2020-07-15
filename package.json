@@ -3,13 +3,13 @@
   	  "version": "1.0.0",
     	  "description": "A minimalist Web Server with Node.js",
      	  "main": "server.js",
-  	  "scripts": {
-    		"test": "echo \"Error: no test specified\" && exit 1"
-	  	"start": "node script.js"
-	  }
-  	  "keywords": [],
+	  "keywords": [],
   	  "author": "Pradhay Amarnath",
   	  "license": "ISC",
+  	  "scripts": {
+    		"test": "echo \"Error: no test specified\" && exit 1",
+	  	"start": "node script.js"
+	  },
 	  "devDependencies": {
 		"gulp": "^3.9.1"
 	  },
@@ -17,9 +17,9 @@
 		"express": "^4.17.1",
 		"gulp-sass": "^4.0.1",
 		"latest-version": "^3.1.0"
-	  }
+	  },
 	  "engines": {
-    		"node": "12.x"
+    		"node": "12.x",
 		"npm": "6.x"
 	  }
 }
