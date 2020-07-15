@@ -1,0 +1,32 @@
+.footer-container{
+	width: 100%;
+	height: $footer-height;
+	background-color: $color-footer-bg;
+	position: absolute;
+	padding-top: 30px;
+
+	.footer-wrapper{
+		max-width: $container-width;
+		display: block;
+    	margin: 0 auto;		
+	    padding-left: $grid-gutter-width/2;
+	    padding-right: $grid-gutter-width/2;	    
+	}	
+
+	.footer-details{
+	    color: white;
+	    text-align: left;
+
+	    .email-word-break{
+	    	display:inline;
+	    }
+	}
+
+	@media screen and (max-width: $mobile-media-very-small){
+		.footer-details{
+			.email-word-break{
+				display: block;
+			}
+		}	
+	}
+}
