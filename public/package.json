@@ -3,13 +3,13 @@
   	  "version": "1.0.0",
     	  "description": "A minimalist Web Server with Node.js",
      	  "main": "server.js",
+	  "keywords": [],
+  	  "author": "Pradhay Amarnath",
+  	  "license": "ISC",
   	  "scripts": {
     		"test": "echo \"Error: no test specified\" && exit 1",
 	  	"start": "node script.js"
 	  },
-  	  "keywords": [],
-  	  "author": "Pradhay Amarnath",
-  	  "license": "ISC",
 	  "devDependencies": {
 		"gulp": "^3.9.1"
 	  },
