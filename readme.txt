@@ -1,1 +1,0 @@
-Just a Test Website for Necessity company. It supports Shelter in eradicating homelessness.
