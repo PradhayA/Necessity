@@ -309,6 +309,7 @@ a {
 .intro-header {
   text-align: center;
   position: absolute;
+  width: 100%;
   padding-top: 70px;
   opacity: 0;
   -moz-transition: 0.4s;
@@ -316,11 +317,8 @@ a {
   -webkit-transition: 0.4s;
   transition: 0.4s;
   transition-timing-function: ease-in-out;
-  width: 100%;
   left: 0;
-  right: 0; }
-  .intro-header.centered {
-    max-width: 700px; }
+  right: 0; 
   .intro-header.show {
     opacity: 1;
     padding-top: 0;
@@ -328,6 +326,7 @@ a {
     -o-transition: 0.4s;
     -webkit-transition: 0.4s;
     transition: 0.4s;
+    transition-timing-function: ease-in-out;
      }
 
 .intro-statement {
