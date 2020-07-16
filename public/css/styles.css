@@ -328,7 +328,7 @@ a {
     -o-transition: 0.4s;
     -webkit-transition: 0.4s;
     transition: 0.4s;
-    transition-timing-function: ease-in-out; }
+     }
 
 .intro-statement {
   max-width: 700px;
