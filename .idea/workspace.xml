@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2a130b8c-fa79-4312-a09b-462719c2277c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/ourvision.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/ourvision.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/whoweare.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/whoweare.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,10 +38,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="317" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1595065309273">
+    <state x="317" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1595107212381">
       <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state x="317" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.727@0.23.1280.727" timestamp="1595065309273" />
+    <state x="317" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.727@0.23.1280.727" timestamp="1595107212381" />
     <state x="317" y="219" key="com.intellij.ide.util.TipDialog/0.23.1280.728@0.23.1280.728" timestamp="1595014108283" />
     <state x="294" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1594930032061">
       <screen x="0" y="23" width="1280" height="728" />
