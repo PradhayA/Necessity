@@ -1,1 +1,1 @@
-Just a Test Website for Necessity company. It supports Shelter in eradicating homelessness.
+Just a Test Website for Necessity company. It supports Shelter in eradicating homelessness. Please try out the finished website at: necessity.herokuapp.com . You will get the oppurtunity to also interact with the chatbot.
